@@ -616,6 +616,7 @@ PlayerSettings:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
   cloudServicesEnabled:
+    Collab: 1
     UNet: 1
   luminIcon:
     m_Name: 
@@ -629,10 +630,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: 1a7ed950-1b2c-4283-b16b-77808c18d235
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: POEHALI
+  organizationId: unity_x60sqjhcq2cyuw
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
