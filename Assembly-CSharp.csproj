@@ -55,8 +55,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\testing.cs" />
+     <Compile Include="Assets\Scripts\BG_Music.cs" />
+     <Compile Include="Assets\Scripts\SceneChanger.cs" />
      <Compile Include="Assets\GameManager.cs" />
+     <Compile Include="Assets\Scripts\SettingSliders.cs" />
+     <Compile Include="Assets\Scripts\SecondScreen.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>C:/Users/kalac/Desktop/hap6/POEHALI/MAX_lo/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
  </Reference>

@@ -151,6 +151,8 @@ public class GameManager : MonoBehaviour
         if (gm == null)
             gm = this.GetComponent<GameManager>();
 
+        
+
     }
 
     // Start is called before the first frame update
