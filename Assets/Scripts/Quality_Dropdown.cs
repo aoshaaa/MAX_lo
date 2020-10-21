@@ -18,9 +18,4 @@ public class Quality_Dropdown : MonoBehaviour
         _dropdown.value = PlayerPrefs.GetInt("TextureQuality");
     }
 
-    private void Update()
-    {
-        
-        Debug.Log(_dropdown.value);
-    }
 }

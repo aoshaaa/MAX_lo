@@ -58,11 +58,12 @@
     <Compile Include="Assets\Scripts\SettingSliders.cs" />
     <Compile Include="Assets\Scripts\SecondScreen.cs" />
     <Compile Include="Assets\Scripts\BG_Music.cs" />
-    <Compile Include="Assets\Scripts\SceneChanger.cs" />
-    <Compile Include="Assets\GameManager.cs" />
-    <Compile Include="Assets\Scripts\Graphic_Settings.cs" />
-    <Compile Include="Assets\Scripts\Quality_Dropdown.cs" />
     <Compile Include="Assets\Scripts\ResolutionChanger.cs" />
+    <Compile Include="Assets\Scripts\SceneChanger.cs" />
+    <Compile Include="Assets\Scripts\Quality_Dropdown.cs" />
+    <Compile Include="Assets\Scripts\Graphic_Settings.cs" />
+    <Compile Include="Assets\GameManager.cs" />
+    <Compile Include="Assets\Scripts\Resolution_Dropdown.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
